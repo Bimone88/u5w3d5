@@ -1,6 +1,6 @@
 package simonemanca.u5w3d5.model;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 import java.time.LocalDateTime;
 
 @Entity
