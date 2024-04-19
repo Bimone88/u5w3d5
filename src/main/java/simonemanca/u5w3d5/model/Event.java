@@ -16,7 +16,7 @@ public class Event {
     private String location;
     private int availableSeats;
 
-    // Constructors, getters, and setters
+    // costruttori 
 
     public Event() {
     }
